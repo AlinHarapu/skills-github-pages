@@ -1,3 +1,4 @@
 ---
-# Opening: ## Welcome to my blog!
+# Opening:
+## Welcome to my blog!
 ---
